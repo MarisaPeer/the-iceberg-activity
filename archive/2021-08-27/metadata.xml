@@ -5,7 +5,7 @@
     <metadataSchema>ADL SCORM 1.2</metadataSchema>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.H5PAuthor.TheIceberg.45eb47e2-3aac-4aa3-8d4d-658a75b81bf3</entry>
+      <entry>com.H5PAuthor.TheIceberg.f19722fd-d167-478d-84f4-2f3b572bbdce</entry>
     </identifier>
     <language>en-EN</language>
     <contribute>
@@ -20,9 +20,9 @@ ORG:H5P Author
 END:VCARD  ]]>
       </entity>
       <date>
-        <dateTime>2021-08-27</dateTime>
+        <dateTime>2021-07-28</dateTime>
         <description language="en-EN">
-          <![CDATA[1630022442127]]>
+          <![CDATA[1626912039006]]>
         </description>
       </date>
     </contribute>
@@ -30,7 +30,7 @@ END:VCARD  ]]>
   <general>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.H5PAuthor.TheIceberg.45eb47e2-3aac-4aa3-8d4d-658a75b81bf3</entry>
+      <entry>com.H5PAuthor.TheIceberg.f19722fd-d167-478d-84f4-2f3b572bbdce</entry>
     </identifier>
     <title>
       <string language="en-EN">
@@ -68,9 +68,9 @@ ORG:H5P Author
 END:VCARD  ]]>
       </entity>
       <date>
-        <dateTime>2021-08-27</dateTime>
+        <dateTime>2021-07-28</dateTime>
         <description language="en-EN">
-          <![CDATA[1630022442127]]>
+          <![CDATA[1626912039006]]>
         </description>
       </date>
     </contribute>
@@ -86,9 +86,9 @@ ORG:H5P Author
 END:VCARD  ]]>
       </entity>
       <date>
-        <dateTime>2021-08-27</dateTime>
+        <dateTime>2021-07-28</dateTime>
         <description language="en-EN">
-          <![CDATA[1630022442127]]>
+          <![CDATA[1626912039006]]>
         </description>
       </date>
     </contribute>
@@ -105,9 +105,9 @@ ORG:H5P Author
 END:VCARD  ]]>
       </entity>
       <date>
-        <dateTime>2021-08-27</dateTime>
+        <dateTime>2021-07-28</dateTime>
         <description language="en-EN">
-          <![CDATA[1630022442127]]>
+          <![CDATA[1626912039006]]>
         </description>
       </date>
     </contribute>
@@ -123,9 +123,9 @@ ORG:H5P Author
 END:VCARD  ]]>
       </entity>
       <date>
-        <dateTime>2021-08-27</dateTime>
+        <dateTime>2021-07-28</dateTime>
         <description language="en-EN">
-          <![CDATA[1630022442127]]>
+          <![CDATA[1626912039006]]>
         </description>
       </date>
     </contribute>
